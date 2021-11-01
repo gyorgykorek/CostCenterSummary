@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TelenorProjectOne:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TelenorProjectOne_jar</output-path>
+    <root id="archive" name="TelenorProjectOne.jar">
+      <element id="module-output" name="TelenorProjectOne" />
+    </root>
+  </artifact>
+</component>

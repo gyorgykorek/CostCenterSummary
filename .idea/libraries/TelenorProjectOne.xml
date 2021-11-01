@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TelenorProjectOne">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TelenorProjectOne.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
