@@ -19,7 +19,7 @@ CTNLIST ELLENÕRZÉS!
 A ctnlist.csv fájlban nem talált a program hiányosságot!
 
 Fájl készítésének idõpontja:2021-02-02 at 23:59:42 CET
-Futtatta:kvxd676
+Futtatta:Korek György
 
 ----------------------------
 TelenorProjectOne számlaösszesítõ progrogram v1.0.4. - alpha build 2020.02.03.
